@@ -1,6 +1,6 @@
 💼 Full Stack Developer 
 
-👋 ¡Hola a todos! Mi pasión por la tecnología comenzó en la escuela técnica, donde me especialicé en informática. Mi viaje académico me llevó desde la ingeniería civil hasta la licenciatura en física, pero finalmente volví a la programación al inscribirme en Ingeniería en Computación. Actualmente, estoy terminando el segundo año de carrera.
+👋 Hola a todos! Mi pasión por la tecnología comenzó en la escuela técnica, donde me especialicé en informática. Mi viaje académico me llevó desde la ingeniería civil hasta la licenciatura en física, pero finalmente volví a la programación al inscribirme en Ingeniería en Computación. Actualmente, estoy terminando el segundo año de carrera.
 
 📈 Experiencia Destacada:
 
@@ -16,4 +16,4 @@ Busco oportunidades para aplicar mis habilidades técnicas y mi pasión por el d
 📧 Contáctame:
 [LinkedIn](https://www.linkedin.com/in/tu-nombre/) | [Contáctame por correo](mailto:iniakitoo@gmail.com)
 
-¡Estoy emocionado por las oportunidades que se presenten! ¡Hablemos sobre cómo puedo aportar a tu empresa!
+Estoy emocionado por las oportunidades que se presenten! Hablemos sobre cómo puedo aportar a tu empresa!
