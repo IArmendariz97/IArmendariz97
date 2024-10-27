@@ -4,12 +4,9 @@
 
 📈 Experiencia Destacada:
 
-Desarrollo con tecnologías como NodeJS, React, Redux, Express, Sequelize y SQL (PostgreSQL, MySQL).
-Creación exitosa de un E-commerce desde cero, incluyendo una API propia y despliegue en producción.
+Desarrollo con tecnologías como Java con Springboot, NodeJS y NestJS con Express, React, Next, Redux, React Admin para CRMs, ORMs como Hibernate, TypeORM, Sequelize, Bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB).
 Participación en proyectos de front-end y back-end con enfoque en resolución de problemas y trabajo en equipo.
 Conocimientos sólidos en control de versiones con Git y colaboración en proyectos en GitHub.
-Implementación de autenticación con tecnologías como Bcrypt, JWT, y otras usadas como SASS y Gulp.
-Experiencia en soluciones de pago seguras con Stripe, Mercado Pago y PayPal.
 🚀 Objetivo:
 Busco oportunidades para aplicar mis habilidades técnicas y mi pasión por el desarrollo web. Mi objetivo es contribuir al éxito de un equipo dinámico y seguir aprendiendo en el apasionante mundo de la tecnología.
 
