@@ -1,6 +1,6 @@
 💼 Full Stack Developer 
 
-👋 Hola a todos! Mi pasión por la tecnología comenzó en la escuela técnica, donde me especialicé en informática. Mi viaje académico me llevó desde la ingeniería civil hasta la licenciatura en física, pero finalmente volví a la programación al inscribirme en Ingeniería en Computación. Actualmente, estoy terminando el segundo año de carrera.
+👋 Hola a todos! Mi pasión por la tecnología comenzó en la escuela técnica, donde me especialicé en informática. Mi viaje académico me llevó desde la ingeniería civil hasta la licenciatura en física, pero finalmente volví a la programación al inscribirme en Ingeniería en Computación.
 
 📈 Experiencia Destacada:
 
