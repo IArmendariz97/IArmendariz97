@@ -1,16 +1,15 @@
 💼 Full Stack Developer 
 
-👋 Hola a todos! Mi pasión por la tecnología comenzó en la escuela técnica, donde me especialicé en informática. Mi viaje académico me llevó desde la ingeniería civil hasta la licenciatura en física, pero finalmente volví a la programación al inscribirme en Ingeniería en Computación.
+👋 Hola a todos! Mi pasión por la tecnología comenzó en la escuela técnica, donde me especialicé en informática.
 
 📈 Experiencia Destacada:
 
-Desarrollo con tecnologías como Java con Springboot, NodeJS y NestJS con Express, React, Next, Redux, React Admin para CRMs, ORMs como Hibernate, TypeORM, Sequelize, Bases de datos relacionales y no relacionales (PostgreSQL, MySQL, MongoDB).
-Participación en proyectos de front-end y back-end con enfoque en resolución de problemas y trabajo en equipo.
-Conocimientos sólidos en control de versiones con Git y colaboración en proyectos en GitHub.
-🚀 Objetivo:
-Busco oportunidades para aplicar mis habilidades técnicas y mi pasión por el desarrollo web. Mi objetivo es contribuir al éxito de un equipo dinámico y seguir aprendiendo en el apasionante mundo de la tecnología.
+Lidere el desarrollo de 4 aplicaciones web para una entidad con participación público-privada con mas de 1 millon de usuarios registrados en una de ellas, y una arquitectura de microservicios para la comunicacion entre el sistema legacy y el nuevo cluster de aplicaciones, lidere el desarrollo de aplicaciones usadas a nivel nacional por seguridad vial, colabore en desarrollos de empresas de logistica en europa, lleve a produccion aplicaciones mobiles con publico EEUU con +1000 descargas enfoncandome en producto y user experience. +15 aplicaciones web/mobile llevadas a produccion. 
+
+Owner de https://gymgrowth.app y https://autopilot-crm.com dos SAAS B2B con integraciones con Open AI (rag embeddings LangChain)  integracion con meta, youtube y mucho mas.
 
 📧 Contáctame:
-[LinkedIn](https://www.linkedin.com/in/tu-nombre/) | [Contáctame por correo](mailto:iniakitoo@gmail.com)
+[LinkedIn]([https://www.linkedin.com/in/i%C3%B1aki-armendariz-4a0875234/)) |
+[Contáctame por correo](mailto:iniakitoo@gmail.com)
 
 Estoy emocionado por las oportunidades que se presenten! Hablemos sobre cómo puedo aportar a tu empresa!
