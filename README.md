@@ -1,4 +1,5 @@
-💼 Full Stack Developer 
+💼 Engineer Manager en Adavance / Partner en Codemized
+
 
 👋 Hola a todos! Mi pasión por la tecnología comenzó en la escuela técnica, donde me especialicé en informática.
 
